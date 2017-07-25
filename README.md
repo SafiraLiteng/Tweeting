@@ -7,12 +7,14 @@
   These instructions will get you a copy of the project up and running on your local machine.
 
   • Prerequisites
+  
     ⁃ Node.js
     ⁃ SQL
     ⁃ jQuery
     ⁃ Bootstrap
 
   • Installing
+  
     ⁃ Node.js
       https://nodejs.org/en/download/package-manager/
     ⁃ SQL server
